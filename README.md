@@ -1,0 +1,1 @@
+# Case-study-of-inclusion-of-slack-bus-in-newton-raphson-method
